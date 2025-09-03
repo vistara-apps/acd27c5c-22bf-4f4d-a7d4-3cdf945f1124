@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RemixFiesta",
+    "subtitle": "Built with Zara",
+    "description": "RemixFiesta is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app",
+    "splashImageUrl": "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app/image.png",
+    "tagline": "RemixFiesta",
+    "screenshotUrls": [
+      "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app/screenshot.png",
+      "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://acd27c5c22bf4f4da7d43cdf945f1124-dgfm-pwzz8iyh8-vistara.vercel.app/api/webhook"
+  }
+}
